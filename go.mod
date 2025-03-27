@@ -1,4 +1,4 @@
-module github.com/hexcraft-biz/envmod-mysql
+module github.com/Loopmaas/envmod-mysql
 
 go 1.21.5
 
